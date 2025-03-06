@@ -16,7 +16,7 @@ Development:
 Engine: Unity
 Programming Language: C#
 How to play:
-Run the file 10thLife.exe to start the game.
+Run the file Interaktiva Datorgrafika.exe to start the game.
 Use [arrow keys/WASD] to move around
 Jump over obstacles and avoid traps
 Collect stars to complete the levels.
