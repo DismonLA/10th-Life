@@ -6,11 +6,11 @@ Game description:
 “10th Life” is a 2D platformer in which you control a cat that overcomes obstacles to collect stars. Inspired by classic platformers such as Super Mario, the game features dynamic movement, physics-based obstacles, and interactive elements.
 
 Features:
-✅ Smooth motion platforming with physics-based mechanics
-✅ Various obstacles and traps challenging the player
-✅ Collect stars to progress through the levels
-✅ Animated characters and environments with exciting effects
-✅ Interactive main menu and settings
+Smooth motion platforming with physics-based mechanics
+Various obstacles and traps challenging the player
+Collect stars to progress through the levels
+Animated characters and environments with exciting effects
+Interactive main menu and settings
 
 Development:
 Engine: Unity
