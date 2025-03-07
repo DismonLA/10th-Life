@@ -1,4 +1,4 @@
-# 10th-Life
+# 10th-Life-Unity
 2D Platformer, University project
 Technologies Used: Unity, C#, 2D Physics, Unity Animator, UI/UX
 
